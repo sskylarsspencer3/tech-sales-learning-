@@ -3,7 +3,6 @@
 Topics I’m Learning
 
 -SaaS sales workflows
-
 -CRM management using Salesforce
 -Lead generation and prospecting
 -Sales development strategies
