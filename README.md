@@ -13,7 +13,6 @@ Topics I’m Learning
 Professional Background
 
 I have experience in:
-
 - Customer acquisition
 - Revenue growth
 - Relationship management
